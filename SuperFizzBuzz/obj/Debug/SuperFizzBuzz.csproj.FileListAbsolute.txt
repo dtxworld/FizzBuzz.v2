@@ -1,0 +1,6 @@
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzz\bin\Debug\SuperFizzBuzz.dll
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzz\bin\Debug\SuperFizzBuzz.pdb
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzz\obj\Debug\SuperFizzBuzz.csproj.AssemblyReference.cache
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzz\obj\Debug\SuperFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzz\obj\Debug\SuperFizzBuzz.dll
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzz\obj\Debug\SuperFizzBuzz.pdb

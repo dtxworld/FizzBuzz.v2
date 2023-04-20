@@ -1,0 +1,17 @@
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\bin\Debug\SuperFizzBuzzTests.dll
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\bin\Debug\SuperFizzBuzzTests.pdb
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\bin\Debug\SuperFizzBuzz.dll
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\bin\Debug\SuperFizzBuzz.pdb
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\obj\Debug\SuperFizzBuzzTests.csproj.AssemblyReference.cache
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\obj\Debug\SuperFizzBuzzTests.csproj.CoreCompileInputs.cache
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\obj\Debug\SuperFizzBuzzTests.csproj.CopyComplete
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\obj\Debug\SuperFizzBuzzTests.dll
+C:\Users\ChrisFabunan\source\repos\ConsoleApp1\SuperFizzBuzzTests\obj\Debug\SuperFizzBuzzTests.pdb
