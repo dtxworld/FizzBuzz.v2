@@ -9,3 +9,14 @@ C:\Users\ChrisFabunan\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2
 C:\Users\ChrisFabunan\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
 C:\Users\ChrisFabunan\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\ChrisFabunan\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\ChrisFabunan\Documents\GitHub\FizzBuzz.v2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\ChrisFabunan\Documents\GitHub\FizzBuzz.v2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\ChrisFabunan\Documents\GitHub\FizzBuzz.v2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\ChrisFabunan\Documents\GitHub\FizzBuzz.v2\ConsoleApp2\bin\Debug\SuperFizzBuzz.dll
+C:\Users\ChrisFabunan\Documents\GitHub\FizzBuzz.v2\ConsoleApp2\bin\Debug\SuperFizzBuzz.pdb
+C:\Users\ChrisFabunan\Documents\GitHub\FizzBuzz.v2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\ChrisFabunan\Documents\GitHub\FizzBuzz.v2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ChrisFabunan\Documents\GitHub\FizzBuzz.v2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ChrisFabunan\Documents\GitHub\FizzBuzz.v2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\ChrisFabunan\Documents\GitHub\FizzBuzz.v2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\ChrisFabunan\Documents\GitHub\FizzBuzz.v2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

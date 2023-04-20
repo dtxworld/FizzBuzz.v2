@@ -1,8 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using SuperFizzBuzz;
 using System;
 using System.Collections.Generic;
-using System.IO;
-using SuperFizzBuzz;
 
 namespace SuperFizzBuzzTests
 {

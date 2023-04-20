@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace SuperFizzBuzz
 {
@@ -12,17 +11,16 @@ namespace SuperFizzBuzz
         private List<int> _rangeList;
         private List<(int, string)> _tokenList;
 
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="rangeSet"></param>
-        /// <param name="tokenList"></param>
         public FizzBuzz(Tuple<int, int> rangeSet, List<(int, string)> tokenList)
         {
             _rangeList = GetRange(rangeSet);
             _tokenList = tokenList;
         }
 
+        /// <summary>
+        /// Output FizzBuzz-ified result
+        /// </summary>
+        /// <returns>Result of FizzBuzz-ified integer range</returns>
         public string Output()
         {
             string returnValue = String.Empty;
@@ -41,7 +39,6 @@ namespace SuperFizzBuzz
         public static List<int> GetRange(Tuple<int, int> rangeSet)
         {
             List<int> returnList = new List<int>();
-
             if (rangeSet != null)
             {
                 int from = rangeSet.Item1;
@@ -65,7 +62,7 @@ namespace SuperFizzBuzz
         }
 
         /// <summary>
-        /// Gets user supplied set of integers
+        /// Gets user supplied set of integers; unused...
         /// </summary>
         /// <param name="intList"></param>
         /// <returns>User defined set of integers</returns>
@@ -77,7 +74,6 @@ namespace SuperFizzBuzz
             {
                 returnList.Add(i);
             }
-            
             return returnList;
         }
     }

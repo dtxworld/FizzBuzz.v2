@@ -7,7 +7,7 @@ namespace ConsoleApp1
     internal class Program
     {
         /// <summary>
-        /// Solve the classic FizzBuzz problem
+        /// Solve the good ol' classic FizzBuzz problem
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
